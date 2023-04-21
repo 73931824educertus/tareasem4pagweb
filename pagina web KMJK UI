@@ -63,6 +63,7 @@
             </form>
         </section>
         <section>
+            <!--L las imagenes fueron cortadas-->
             <h2>Mira nuestros videos</h2>
             <div>
                 <img src="imagenes/imgvidkmjk.PNG" alt="imagen del video"> <h3>VISTAS 3D</h3>
@@ -100,20 +101,20 @@
             <p>
                 Contamos con la licencia de una plataforma líder en el mercado <br> internacional, con de 11 años de experiencia y donde se han <br> realizado más de 600.000 eventos virtuales. Lo cual nos permite <br> trabajar con todo el profesionalismo para garantizar la <br> producción de: <br>
                 <p>
-                    <ul>
+                    <Ol type="i">
                         <li>Ferias</li>
                         <li>Conferencias</li>
                         <li>Encuentros Corporativos</li>
                         <li>Seminarios web</li>
-                    </ul>
+                    </Ol>
                 </p>
                
             
                 <h2>Pueden contratar:</h2>
-                <ul>
+                <Ol type="1">
                     <li>Alquiler del Centro de Convenciones Virtual KMJK</li>
                     <li>Adquiere una licencia de la plataforma 6Connex</li>
-                </ul>
+                </Ol>
                 <h2>Licencia de la Plataforma 6Connex:</h2>
                 <p>¿Buscas una plataforma para realizar eventos virtuales? Si tus <br> clientes te piden realizar eventos virtuales, adquiere una licencia <br> 6Connex y eleva la calidad de tus servicios. Esto se adapta <br> perfecto para agencias de publicidad o agencias de relaciones <br> públicas que buscan opciones para sus clientes. <br> </p>
                 <h2>¿Por qué 6Conex?</h2>
